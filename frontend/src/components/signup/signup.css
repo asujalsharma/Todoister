@@ -1,0 +1,53 @@
+.signup{
+    width: 100%;
+    min-height: 93.59vh;
+}
+
+.coloumn{
+    height: 100vh;
+}
+
+.sign-up-heading{
+    padding: 70px;
+    border-radius: 40%;
+    font-size: 80px;
+    color: rgb(5, 83, 109);
+    background-color: blanchedalmond;
+    opacity: 0.8;
+}
+
+/* Form.css */
+
+/* Increase the font size of the labels */
+.form-label-lg {
+    font-size: 1.1em;
+    font-weight: bold;
+    
+    color: rgb(5, 83, 109);
+}
+
+/* Increase the font size of the inputs */
+.form-control-lg {
+    font-size: 1rem;
+    padding: 1rem;
+    
+    color: rgb(5, 83, 109);
+}
+
+.col-left{
+    border-left: 1px solid rgb(5, 83, 109);
+}
+
+.inp-signup{
+    outline: none;
+}
+
+.btn-signup{
+    border: none;
+    outline: none;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    color: rgb(22, 50, 75) !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+}

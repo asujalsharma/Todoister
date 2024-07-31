@@ -1,0 +1,15 @@
+.home{
+    width: 100%;
+    min-height: 93.5vh;
+}
+
+.home-btn{
+    border: none;
+    outline: none;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    color: rgb(22, 50, 75) !important;
+    font-weight: bold;
+    font-size: 1.25rem;
+    box-shadow: rgba(0, 0,0, 0.35) 0px 5px 15px;
+}

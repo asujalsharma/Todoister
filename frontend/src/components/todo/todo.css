@@ -1,0 +1,65 @@
+.todo{
+    width: 100%;
+    min-height: 93.5vh;
+}
+
+.todo-inputs{
+    box-shadow: rgba(0, 0,0, 0.35) 0px 5px 15px;
+    
+    border-radius: 20px;
+}
+
+.form-control-lg {
+    font-size: 1.1rem;
+    padding: 1rem;
+    border: none;
+    outline: none;
+    color: rgb(5, 83, 109);
+}
+
+.add-task-btn{
+    border: none;
+    outline: none;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    color: rgb(22, 50, 75) !important;
+    font-weight: bold;
+    font-size: 1.25rem;
+    width: 10%;
+    margin: 20px;
+    box-shadow: rgba(0, 0,0, 0.35) 0px 5px 15px;
+}
+
+.todo-card{
+    border: 1px solid black;
+}
+
+.todo-card-p{
+    text-align: justify;
+    text-justify:inter-word;
+}
+
+.card-icons{
+    font-size: 18px;
+}
+
+.card-icons-head{
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.card-icons-head:hover{
+    box-shadow: rgba(0, 0,0, 0.35) 0px 5px 15px;
+}
+
+.todo-update{
+    width: 100%;
+    height: 80vh;
+    position: absolute;
+    position: fixed;
+    top: 100px;
+    left: 0px;
+    display: none;
+    background-color: blanchedalmond;
+}

@@ -1,0 +1,19 @@
+/* Navbar.css */
+.navbar-brand h1 {
+    
+    font-weight: bold;
+    color: rgb(5, 83, 109);
+}
+
+.nav-link {
+    font-weight: bold;
+    color: rgb(5, 83, 109) !important; /* Increase the size of navigation links */
+}
+
+
+.nav-btn{
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    color: rgb(5, 83, 109) !important;
+    font-weight: bold;
+}
